@@ -11,7 +11,7 @@ use spl_tlv_account_resolution::{
 };
 use spl_transfer_hook_interface::instruction::{ExecuteInstruction, TransferHookInstruction};
 
-declare_id!("98jF4sUxDMvoRdfotY3wn7yZzq5Ct7sRaMWdSgkFqTaH");
+declare_id!("H5UmP9c2qmeTMwLzZp7v7HbrR7W73Rw6bgo5ou8yDsDQ");
 
 #[program]
 pub mod transfer_hook {

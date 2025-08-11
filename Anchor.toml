@@ -8,7 +8,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-hello_world_transfer_hook = "98jF4sUxDMvoRdfotY3wn7yZzq5Ct7sRaMWdSgkFqTaH"
+hello_world_transfer_hook = "H5UmP9c2qmeTMwLzZp7v7HbrR7W73Rw6bgo5ou8yDsDQ"
 
 [registry]
 url = "https://api.apr.dev"
